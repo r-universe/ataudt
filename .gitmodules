@@ -8,8 +8,3 @@
 	url = https://github.com/ataudt/aneufinder
 	shallow = true
 	registered = true
-[submodule "chromstaR"]
-	path = chromstaR
-	url = https://github.com/ataudt/chromstar
-	shallow = true
-	registered = true
